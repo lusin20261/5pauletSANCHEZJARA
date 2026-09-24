@@ -1,0 +1,5 @@
+1:Limpiar mi cuarto
+2:Cocinar
+3:Darle de comer a mi perrita
+4:Ir al colegio
+5:Hacert las tareas del colegio
