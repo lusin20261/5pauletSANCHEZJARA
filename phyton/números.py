@@ -1,0 +1,8 @@
+print("==========Bienvenidos a mi calculadora==========")
+a = input("Ingresa el primer número: ")
+b = input("Ingresa el segundo número:")
+a = int(a)
+b = int(b)
+print(a+200-569*6/4**7)
+print(b*500+345**9/35)
+print("==========Gracias==========")
